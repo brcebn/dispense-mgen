@@ -1,0 +1,16 @@
+{
+  "nom_naissance": "Martin",
+  "nom_usage": "Dupont",
+  "prenom": "Camille",
+  "date_naissance": "12/04/1988",
+  "telephone": "+33 6 12 34 56 78",
+  "email": "camille.dupont@example.fr",
+
+  "motif": 3,
+  "date_effet": "01/01",
+  "date_fin": "31/12",
+  "date_signature": "",
+
+  "fait_a": "Paris",
+  "signature": "Camille Dupont"
+}

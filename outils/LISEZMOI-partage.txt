@@ -1,0 +1,27 @@
+DISPENSE MGEN — attestation de dispense pré-remplie, chaque année, automatiquement
+==================================================================================
+
+Fonctionne sur tout Mac récent (macOS 26 ou plus), sans rien installer.
+
+1. Crée le dossier « Dispense MGEN » dans Documents et mets-y
+   attestation_honneur_dispense.pdf (le formulaire vierge fourni).
+
+2. Ouvre « Dispense MGEN.shortcut » › « Ajouter le raccourci ».
+
+3. Dans Raccourcis, ouvre le raccourci : chaque champ est une action Texte qui contient
+   un repère ⟨…⟩. Remplace chaque repère par ta valeur. Un repère laissé tel quel compte
+   comme vide (pratique pour les champs facultatifs : nom d'usage, téléphone, e-mail…).
+   Dates d'effet / de fin / de signature au format JJ/MM : l'année est ajoutée
+   automatiquement (année prochaine).
+
+4. Raccourcis › Réglages › Avancé › coche « Autoriser l'exécution de scripts ».
+
+5. Teste : lance le raccourci. Une notification apparaît et le PDF rempli est enregistré
+   dans Documents/Dispense MGEN. S'il manque un champ, la notification le dit.
+
+6. Automatisation › + › Heure de la journée › 10:00 › Annuel, 1er septembre
+   › choisis « Dispense MGEN » › Exécuter immédiatement.
+
+Motifs : 1 contrat individuel · 2 contrat collectif d'un autre employeur ·
+3 ayant droit du contrat du conjoint/parent · 4 CDD · 5 CSS · 6 CAMIEG ·
+7 versement santé · 8 militaires.

@@ -1,0 +1,15 @@
+# Données personnelles : ne jamais versionner
+donnees/*.json
+!donnees/exemple.json.dist
+
+# Fichiers générés
+sorties/
+partage/
+diagnostic/
+log/
+*.shortcut
+
+# Formulaire MGEN (document tiers, logo) : à récupérer soi-même, voir README
+*.pdf
+
+.DS_Store
